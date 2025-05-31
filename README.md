@@ -8,7 +8,7 @@ Controla la serpiente, come la comida roja y crece tanto como puedas.
 
 ## 📸 **Vista previa**
 
-![Snake Game Demo]( )  
+![Snake Game Demo](game_ss.png)  
 
 ---
 
